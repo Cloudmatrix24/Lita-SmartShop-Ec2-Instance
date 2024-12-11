@@ -10,7 +10,7 @@ Virtual Private Cloud (VPC), and Identity and Access Management (IAM).
 
 - How I Set Up the Application Environment and ensure Access and Connectivity:
   I launch an EC2 Instances(named: i-0ebb275c29eef58e7 (ChiomaIdoghor_lita) ) to Host my Web Application
-  ![EC2 Instance](/EC2.png)
+  ![EC2 Instance](EC2.png)
 
 #### Creating Security Group
 
