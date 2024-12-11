@@ -10,21 +10,21 @@ Virtual Private Cloud (VPC), and Identity and Access Management (IAM).
 
 - How I Set Up the Application Environment and ensure Access and Connectivity:
   I launch an EC2 Instances(named: i-0ebb275c29eef58e7 (ChiomaIdoghor_lita) ) to Host my Web Application
-  ![EC2 Instance](/EC2%20img.png)
+  ![EC2 Instance](/EC2.png)
 
 #### Creating Security Group
 
 - How I Configure Security Groups with the name: sg-03a67acbb43c50031 - ChiomaMargaret_LitaSG.
   I, Allow HTTP (port 80) and HTTPS (port 443) traffic from the internet, and
   Restrict SSH (port 22) access to my IP addresses only
-  ![security group](/SG%20img.png)
-  ![Security group](/SG%20img2.png)
+  ![security group image](/SG.png)
+  ![Security group image](/SG2.png)
 
 #### Creating and deploying Apache Server
 
 - How I deployed an Apache web server
-  ![Apache conf](/ApacheInstallationimg.png)
-  ![Apache server](/Apache%20server.png)
+  ![Apache conf image](/ApacheInstallationimg.png)
+  ![Apache server](/ApacheServer.png)
 
   #### Documentation
 
